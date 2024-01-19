@@ -1,0 +1,31 @@
+.hea,.btn{
+    display: inline-block;
+}
+.hea{
+    background-color: aquamarine;
+}
+
+.btn{
+    background-color: rgb(31, 150, 112);
+}
+.a{
+    text-align: center;
+}
+.Quote{
+    background-color: rgb(24, 203, 143);
+    /* text-align: center; */
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 4px;
+}
+
+.qt{
+  color:rgb(14, 1, 1);
+  
+}
+
+.src{
+    margin-right:50px ;
+    margin-bottom: 10px;
+  text-align: right;
+}
